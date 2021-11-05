@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 038cec1b36b3510439d400cd8111ddd0, type: 3}
+  m_Name: Game Configs
+  m_EditorClassIdentifier: 
+  playerIcon: {fileID: 21300000, guid: a83eb87d0c4380849b62836711a9d433, type: 3}
+  botIcon: {fileID: 21300000, guid: a28b392cb470a2b4da1dcc37d48a7949, type: 3}
+  iconX: {fileID: 21300000, guid: 5c6c20263388c614b8a89b5528e2c00d, type: 3}
+  iconO: {fileID: 21300000, guid: aa5824d177d14ed45a602d592a220481, type: 3}
+  tableSize: 3
+  starter: 2
+  menuAudio: {fileID: 8300000, guid: 6d5d55bedebf4d14f9856030d52043a5, type: 3}
+  gameAudio: {fileID: 8300000, guid: dbea4c9ca9c770b4a934f56fec4bc8d0, type: 3}
+  botSelectAudio: {fileID: 8300000, guid: d5a4c923f5b4aa94883b0b704c1082a6, type: 3}
+  playerSelectAudio: {fileID: 8300000, guid: 606457c6586c11c4fb2055beb72ada0a, type: 3}
+  clickAudio: {fileID: 8300000, guid: 8a54a743407310840b0e4cba4c279b4c, type: 3}
